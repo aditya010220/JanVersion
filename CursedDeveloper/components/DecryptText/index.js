@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { useDencrypt } from "use-dencrypt-effect";
+import useDencrypt from './useDencrypt';
 
 const DecryptText = ({
     values = ['Empty'],
