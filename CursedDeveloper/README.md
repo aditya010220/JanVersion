@@ -73,5 +73,5 @@ No license specified. Add a `LICENSE` file if you want to define one.
 
 If you'd like, I can also:
 - Run the dev server locally and verify the app starts.
-- Add a short CONTRIBUTING section or examples showing how to add new animated components.
+- Add a short CONTRIBUTING section or examples showing how to add new animated components    .
 
