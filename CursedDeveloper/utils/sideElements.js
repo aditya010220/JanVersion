@@ -2,9 +2,9 @@ import { openLink } from "./methods"
 
 const handleIconClick = (icon) => {
     const links = {
-        'github': 'https://github.com/adity010220',
-        'instagram': 'https://www.instagram.com/its.athreya/',
-        'twitter': 'https://x.com/cursedMan0102',
+        'github': 'https://github.com/aditya010220/',
+        'instagram': 'https://www.instagram.com/magicman_x/',
+        'twitter': 'https://x.com/athreya2902',
         'linkedin': 'https://www.linkedin.com/in/fullstackdeveloperaditya/',
     }
     openLink(links[icon])

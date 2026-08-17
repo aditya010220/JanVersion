@@ -21,7 +21,7 @@ const mySelf = {
         'Git',
         'GitHub',
     ],
-    image: '/assets/ANOTHER.jpg',
+    image: '/assets/face.jpeg',
 }
 
 export default mySelf

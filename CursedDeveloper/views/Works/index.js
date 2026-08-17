@@ -34,7 +34,7 @@ const Tabs = ({ list }) => {
                             <div
                                 data-aos="zoom-in-right"
                                 className='ai-works-tab-right-title'>
-                                {`${selectedItem.role} @ ${seletedItem.company}`}
+                                {`${selectedItem.role} @ ${selectedItem.organization || seletedItem.company}`}
                             </div>
                             <div
                                 data-aos="zoom-in-right" className='ai-works-tab-right-duration'>{selectedItem.duration}</div>

@@ -14,7 +14,7 @@ const header = {
     ],
     rightBtn: {
         label: 'Curriculum Vitae | CV',
-        onClick: () => openLink('assets/cursed.pdf')
+        onClick: () => openLink('assets/resume.pdf')
     },
     logo: {
         src: '/assets/download.jpg',

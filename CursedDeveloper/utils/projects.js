@@ -2,21 +2,21 @@ const projects = {
     heading: `Things I've Worked on`,
     list: [
         {
-            image: '/assets/projects/skillshare.png',
+            image: '/assets/projects/gurukul.png',
             label: 'Featured Project',
-            title: 'SkillShare Web/Portal',
-            description: 'The mission of SkillShare is to reshape Bharat by revolutionizing skill development through complete, accessible, and industry-focused learning',
+            title: 'GurukulX Web/Portal',
+            description: 'The mission of GurukulX is to enable people to learn and teach through barter, sharing experiences instead of starting everything alone.',
             techs: [
                 'JavaScript',
                 'React Js',
                 'Express Js',
                 'Mongodb',
-                'SupaBase',
+                'Socket.io',
             ],
             status: 'live',
-            liveUrl: 'https://skillsharebycursed.vercel.app/',
-            githubUrl: 'https://github.com/cursed-007/skillshare',
-            deployedDate: 'Nov 2025'
+            liveUrl: 'https://legendary-biscotti-c09645.netlify.app/',
+            githubUrl: 'https://github.com/aditya010220/gurukulX/',
+            deployedDate: 'April 2026'
         },
         {
             image: '/assets/projects/civic.png',
@@ -65,10 +65,10 @@ const projects = {
                 'TypeScript',
                 'Docker',
             ],
-            status: 'Pending Deployment',
-            liveUrl: 'https://github.com/aditya010220/Sahaay-Landing-page',
-            githubUrl: 'https://github.com/aditya010220/Sahaay-Landing-page',
-            deployedDate: 'On GitHub'
+            status: 'live',
+            liveUrl: 'https://sahaay-mental-wellness.netlify.app/',
+            githubUrl: 'https://sahaay-mental-wellness.netlify.app/',
+            deployedDate: 'Jan 2026'
         },
         {
             image: '/assets/projects/food.png',
@@ -86,7 +86,7 @@ const projects = {
             deployedDate: 'Sep 2024'
         },
         {
-            image: '/assets/projects/declinica.png',
+            image: '/assets/projects/nextstep.png',
             label: 'Featured Project',
             title: `NextStep AI Platform`,
             description: `A modern careerMate platform with AI-powered career guidance, job matching, and personalized recommendations. Built with responsive design and optimized performance.`,
@@ -95,13 +95,13 @@ const projects = {
                 'Node Js',
                 'Express Js',
                 'MongoDB',
-                'Stripe API',
+                'PWA',
                 'JWT',
             ],
-            status: 'coming-soon',
-            liveUrl: '#',
-            githubUrl: '#',
-            deployedDate: 'Waiting for Deployment'
+            status: 'live',
+            liveUrl: 'https://nextstepaiiiiii.netlify.app/',
+            githubUrl: 'https://nextstepaiiiiii.netlify.app/',
+            deployedDate: 'Aug 2026'
         }
     ]
 }

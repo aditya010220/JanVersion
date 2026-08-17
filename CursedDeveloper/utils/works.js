@@ -44,7 +44,21 @@ const works = {
                         'Collaborated with frontend developers for seamless API integration.',
                         'Participated in code reviews, debugging, and refactoring.'
                     ],
-                }
+                },
+                {
+            organization: 'Zenvox Private Limited',
+            role: 'Backend Developer',
+            duration: 'Remote | Aug 17 2026 - Sep 17 2026',
+             points: [
+                'Built backend services and RESTful APIs using Node.js and Express.js for application features.',
+                'Designed MongoDB collections and optimized database queries for efficient data retrieval and storage.',
+                'Developed reusable backend modules and middleware to improve code maintainability and scalability.',
+                'Implemented input validation, error handling, and secure API practices to improve application reliability.',
+                'Integrated third-party services and APIs while managing request handling and backend data flow.',
+                'Debugged backend issues, tested API endpoints with Postman, and optimized application performance.',
+                'Collaborated with frontend developers to define API contracts and ensure smooth data integration.'
+            ],
+                 }
             ]
         },
         {
@@ -79,7 +93,21 @@ const works = {
                         'Integrated frontend components with backend APIs.',
                         'Collaborated with designers and backend developers.'
                     ],
-                }
+                },
+                {
+    organization: 'Welwart Pharmaceutical Private Limited',
+    role: 'Frontend Developer',
+    duration: 'Remote | May 2026 - Aug 2026',
+    points: [
+        'Designed intuitive UI/UX layouts and translated design concepts into responsive, user-friendly web interfaces.',
+        'Developed reusable frontend components with a focus on clean structure, consistency, and maintainability.',
+        'Implemented responsive designs to provide a seamless experience across desktop, tablet, and mobile devices.',
+        'Integrated frontend interfaces with backend APIs to display and manage application data efficiently.',
+        'Implemented Progressive Web App (PWA) features, including responsive behavior, installability, and improved mobile accessibility.',
+        'Optimized frontend performance, loading times, and user interactions for a smoother application experience.',
+        'Collaborated with backend developers to integrate APIs and refine frontend functionality based on application requirements.'
+    ],
+}
             ]
         },
         {
