@@ -48,12 +48,12 @@ function MyApp({ Component, pageProps }) {
           type="image/png"
           sizes="16x16" />
         <link
-          href="../public/icons/32.png"
+          href="/assets/download.jpg"
           rel="icon"
           type="image/png"
           sizes="32x32" />
-        <link rel="apple-touch-icon" href="../public/icons/16.png"></link>
-        <link rel="apple-touch-icon" href="../public/icons/32.png"></link>
+        <link rel="apple-touch-icon" href="/assets/download.jpg"></link>
+        <link rel="apple-touch-icon" href="/assets/download.jpg"></link>
       </Head>
       <Component {...pageProps} />
     </>
