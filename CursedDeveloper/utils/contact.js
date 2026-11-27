@@ -8,7 +8,7 @@ const contact = {
         label: 'Say Hello',
         onClick: () => openLink('mailto:curseddeveloper2@gmail.com?subject=Hello')
     },
-    designAndBuiltBy: 'Designed & Built By cursedMan',
+    designAndBuiltBy: 'Designed & Built By MagicMan',
     handleBuiltByClick: () => openLink('https://github.com/adity010220')
 }
 
