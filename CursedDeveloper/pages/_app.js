@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import Head from "next/head";
 import AOS from "aos";
+import { Analytics } from '@vercel/analytics/next';
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'aos/dist/aos.css'
@@ -56,6 +57,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="apple-touch-icon" href="/assets/download.jpg"></link>
       </Head>
       <Component {...pageProps} />
+      <Analytics />
     </>
   );
 }
